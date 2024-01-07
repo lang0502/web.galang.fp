@@ -1,1 +1,2 @@
-# web.galang.tzy
+# kado
+-
