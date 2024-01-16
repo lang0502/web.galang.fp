@@ -18,7 +18,7 @@ def perintah():
 def ngomong(self):
     teks = (self)
     bahasa = 'id'
-    namafile = 'Ngomong.mp3'
+    namafile = 'dista/Ngomong.mp3'
     def reading():
         suara = gTTS(text=teks, lang=bahasa, slow=False)
         suara.save(namafile)
